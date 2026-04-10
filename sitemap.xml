@@ -6,7 +6,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/test.html</loc>
+    <loc>https://sbti.guru/sbti-test.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -16,137 +16,137 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/CTRL.html</loc>
+    <loc>https://sbti.guru/sbti-personality/CTRL.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/ATM-er.html</loc>
+    <loc>https://sbti.guru/sbti-personality/ATM-er.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/Dior-s.html</loc>
+    <loc>https://sbti.guru/sbti-personality/Dior-s.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/BOSS.html</loc>
+    <loc>https://sbti.guru/sbti-personality/BOSS.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/THAN-K.html</loc>
+    <loc>https://sbti.guru/sbti-personality/THAN-K.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/OH-NO.html</loc>
+    <loc>https://sbti.guru/sbti-personality/OH-NO.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/GOGO.html</loc>
+    <loc>https://sbti.guru/sbti-personality/GOGO.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/SEXY.html</loc>
+    <loc>https://sbti.guru/sbti-personality/SEXY.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/LOVE-R.html</loc>
+    <loc>https://sbti.guru/sbti-personality/LOVE-R.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/MUM.html</loc>
+    <loc>https://sbti.guru/sbti-personality/MUM.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/FAKE.html</loc>
+    <loc>https://sbti.guru/sbti-personality/FAKE.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/OJBK.html</loc>
+    <loc>https://sbti.guru/sbti-personality/OJBK.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/MALO.html</loc>
+    <loc>https://sbti.guru/sbti-personality/MALO.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/JOKE-R.html</loc>
+    <loc>https://sbti.guru/sbti-personality/JOKE-R.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/WOC!.html</loc>
+    <loc>https://sbti.guru/sbti-personality/WOC!.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/THIN-K.html</loc>
+    <loc>https://sbti.guru/sbti-personality/THIN-K.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/SHIT.html</loc>
+    <loc>https://sbti.guru/sbti-personality/SHIT.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/ZZZZ.html</loc>
+    <loc>https://sbti.guru/sbti-personality/ZZZZ.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/POOR.html</loc>
+    <loc>https://sbti.guru/sbti-personality/POOR.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/MONK.html</loc>
+    <loc>https://sbti.guru/sbti-personality/MONK.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/IMSB.html</loc>
+    <loc>https://sbti.guru/sbti-personality/IMSB.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/SOLO.html</loc>
+    <loc>https://sbti.guru/sbti-personality/SOLO.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/FUCK.html</loc>
+    <loc>https://sbti.guru/sbti-personality/FUCK.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/DEAD.html</loc>
+    <loc>https://sbti.guru/sbti-personality/DEAD.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/IMFW.html</loc>
+    <loc>https://sbti.guru/sbti-personality/IMFW.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/HHHH.html</loc>
+    <loc>https://sbti.guru/sbti-personality/HHHH.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sbti.guru/types/DRUNK.html</loc>
+    <loc>https://sbti.guru/sbti-personality/DRUNK.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

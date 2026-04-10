@@ -444,7 +444,7 @@
     <div class="nav-links">
       <a href="#about">About</a>
       <a href="#types">All Types</a>
-      <a href="/test.html">Take Test</a>
+      <a href="/sbti-test.html">Take Test</a>
       <a href="/" class="nav-lang">中文</a>
     </div>
   </div>
@@ -456,7 +456,7 @@
   <h1>MBTI is outdated.<br><span>SBTI is here.</span></h1>
   <p class="hero-desc">The viral personality quiz that's taking the internet by storm. 31 fun questions, 15 dimensions, 27 soul types — funnier than MBTI (and with zero scientific basis).</p>
   <div class="hero-actions">
-    <a href="/test.html"><button class="btn-primary">Take the Test</button></a>
+    <a href="/sbti-test.html"><button class="btn-primary">Take the Test</button></a>
     <a href="#about"><button class="btn-secondary">Learn More</button></a>
   </div>
 </section>
@@ -600,7 +600,7 @@
 <section class="cta-section">
   <h2>Ready?</h2>
   <p>31 questions, 2 minutes — discover which of the 27 soul types you are.</p>
-  <a href="/test.html"><button class="btn-primary">Take the Test</button></a>
+  <a href="/sbti-test.html"><button class="btn-primary">Take the Test</button></a>
 </section>
 
 <!-- FOOTER -->
@@ -609,7 +609,7 @@
     <a href="/en/">Home</a>
     <a href="#about">About</a>
     <a href="#types">All Types</a>
-    <a href="/test.html">Take Test</a>
+    <a href="/sbti-test.html">Take Test</a>
   </div>
   <p>SBTI Personality Test · Pure entertainment, zero science</p>
   <p>Original creator: <a href="https://space.bilibili.com/417038183" target="_blank">@qu-rou-er-chuan-er</a> on Bilibili · Mirror hosted on Cloudflare</p>
@@ -649,7 +649,7 @@ const TYPES = [
 const grid = document.getElementById('typesGrid');
 TYPES.forEach(t => {
   const a = document.createElement('a');
-  a.href = `types/${t.code}.html`;
+  a.href = `sbti-personality/${t.code}.html`;
   a.className = 'type-card';
   a.innerHTML = `
     <img src="/image/${t.img}" alt="${t.name}" loading="lazy" />
